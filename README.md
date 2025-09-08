@@ -26,3 +26,31 @@ Clone the repo:
 ```bash
 git clone https://github.com/Kaushik4204/vr180_inception_mvp.git
 cd vr180_inception_mvp
+```
+
+## Create and activate virtual environment:
+```bash
+python -m venv .venv
+# Activate venv
+# On Windows:
+.venv\Scripts\activate
+# On Mac/Linux:
+source .venv/bin/activate
+```
+
+## Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## ▶️ Running the App
+
+Run locally:
+```bash
+python app.py
+```
+
+---
+
+
+
