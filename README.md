@@ -51,7 +51,7 @@ python app.py
 ```
 ---
 
-##🌐 Deploy on Hugging Face Spaces
+## 🌐 Deploy on Hugging Face Spaces
 
 Push this repo to GitHub.
 
@@ -68,7 +68,7 @@ Done 🎉 – your app runs live in the browser.
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
@@ -80,7 +80,7 @@ Submit a pull request 🚀
 
 ---
 
-##📜 License
+## 📜 License
 
 This project is licensed under the MIT License 
 
