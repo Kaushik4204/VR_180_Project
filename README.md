@@ -49,8 +49,46 @@ Run locally:
 ```bash
 python app.py
 ```
+---
+
+##🌐 Deploy on Hugging Face Spaces
+
+Push this repo to GitHub.
+
+Go to Hugging Face Spaces
+ → New Space.
+
+Select:
+
+Repository type: Gradio
+
+Link GitHub Repo: paste your repo link.
+
+Done 🎉 – your app runs live in the browser.
 
 ---
 
+##🤝 Contributing
+
+Contributions are welcome!
+
+Fork the repo
+
+Create a new branch
+
+Submit a pull request 🚀
+
+---
+
+##📜 License
+
+This project is licensed under the MIT License 
+
+
+## 👨‍💻 Author
+
+Kaushik Puli
+
+GitHub: Kaushik4204
 
 
