@@ -68,6 +68,34 @@ Done 🎉 – your app runs live in the browser.
 
 ---
 
+## Folder Structure
+
+vr180_inception_mvp/
+
+├── app.py
+
+├── app/
+
+│   ├── __init__.py
+
+│   └── gradio_app.py   👈 put the code you pasted here
+
+├── pipeline/
+
+│   ├── videoio.py
+
+│   ├── depth.py
+
+│   ├── dibr.py
+
+│   └── vr180_pack.py
+
+└── outputs/
+
+└── app,py
+
+└── requirements.txt
+--
 ## 🤝 Contributing
 
 Contributions are welcome!
